@@ -1,0 +1,2 @@
+# soft
+pin key serial
